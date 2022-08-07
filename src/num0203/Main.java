@@ -4,7 +4,8 @@ package num0203;
 /**
  * @author niewenlong
  * @date 2022/8/6 16:07
- * @description
+ * @description 203. 移除链表元素
+ * @leetCodeUrl <a href="https://leetcode.cn/problems/remove-linked-list-elements/">...</a>
  **/
 public class Main {
     public static class ListNode {
