@@ -1,4 +1,4 @@
-package num0707;
+package com.goule666.leetcode.num0707;
 
 /**
  * @author niewenlong
