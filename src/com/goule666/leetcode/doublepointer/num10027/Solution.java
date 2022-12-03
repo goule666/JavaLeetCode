@@ -1,4 +1,4 @@
-package com.goule666.leetcode.doublepointer;
+package com.goule666.leetcode.doublepointer.num10027;
 
 /**
  * @author niewenlong
