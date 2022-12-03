@@ -1,4 +1,4 @@
-package com.goule666.leetcode.num0209;
+package com.goule666.leetcode.array.num0209;
 
 
 /**

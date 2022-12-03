@@ -1,4 +1,4 @@
-package com.goule666.leetcode.num0024;
+package com.goule666.leetcode.array.num0024;
 
 /**
  * @author niewenlong

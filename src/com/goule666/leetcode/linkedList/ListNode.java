@@ -1,4 +1,4 @@
-package com.goule666.leetcode;
+package com.goule666.leetcode.linkedList;
 
 /**
  * @author niewenlong

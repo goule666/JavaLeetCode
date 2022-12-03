@@ -1,4 +1,4 @@
-package com.goule666.leetcode.num0977;
+package com.goule666.leetcode.array.num0977;
 
 import java.util.Arrays;
 

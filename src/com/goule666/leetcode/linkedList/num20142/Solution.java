@@ -1,6 +1,6 @@
 package com.goule666.leetcode.linkedList.num20142;
 
-import com.goule666.leetcode.ListNode;
+import com.goule666.leetcode.linkedList.ListNode;
 
 
 /**
