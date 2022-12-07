@@ -1,4 +1,4 @@
-package com.goule666.leetcode.stackandqueue.num401047;
+package com.goule666.leetcode.stackandqueue.num41047;
 
 import java.util.Stack;
 
